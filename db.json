@@ -1,0 +1,309 @@
+{
+  "session": {
+    "sessionToken": "kjasnlkjasnflkjnasdkfjlnaskljfnaskjnflkjasnf"
+  },
+
+  "concerts": [
+    {
+      "id": 1,
+      "key": 1,
+      "artist": "MØ",
+      "location": "Orange Scene",
+      "time": "22:00",
+      "day": "Saturday",
+      "date": "2016-07-02",
+      "picture": {
+        "original": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/mø-1200x720.jpg",
+        "banner": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/mø-600x338.jpg",
+        "thumbnail": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/mø-338x338.jpg"
+      },
+      "attending": {
+        "friends": 15,
+        "total": 267
+      },
+      "status": "attending"
+    },
+    {
+      "id": 2,
+      "key": 2,
+      "artist": "Red Hot Chili Peppers",
+      "location": "Orange Scene",
+      "time": "19:00",
+      "day": "Friday",
+      "date": "2016-07-01",
+      "picture": {
+        "original": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/red-hot-chili-peppers-1200x720.jpg",
+        "banner": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/red-hot-chili-peppers-600x338.jpg",
+        "thumbnail": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/red-hot-chili-peppers-338x338.jpg"
+      },
+      "attending": {
+        "friends": 89,
+        "total": 1025
+      },
+      "status": "plusOne"
+    },
+    {
+      "id": 3,
+      "key": 3,
+      "artist": "LCD Soundsystems",
+      "location": "Orange Scene",
+      "time": "01:00",
+      "day": "Sunday",
+      "date": "2016-07-03",
+      "picture": {
+        "original": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/lcd-soundsystem-1200x720.jpg",
+        "banner": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/lcd-soundsystem-600x338.jpg",
+        "thumbnail": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/lcd-soundsystem-338x338.jpg"
+      },
+      "attending": {
+        "friends": 125,
+        "total": 965
+      },
+      "status": "plusOne"
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "artist": "MACKLEMORE & RYAN LEWIS",
+      "location": "Orange Scene",
+      "time": "21:30",
+      "day": "Thursday",
+      "date": "2016-06-30",
+      "picture": {
+        "original": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/macklemore-and-ryan-lewis-credit-amanda-smith-1200x720.jpg",
+        "banner": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/macklemore-and-ryan-lewis-credit-amanda-smith-600x338.jpg",
+        "thumbnail": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/macklemore-and-ryan-lewis-credit-amanda-smith-338x338.jpg"
+      },
+      "attending": {
+        "friends": 125,
+        "total": 965
+      },
+      "status": "plusOne"
+    },
+    {
+      "id": 5,
+      "key": 5,
+      "artist": "NEIL YOUNG + PROMISE OF THE REAL",
+      "location": "Orange Scene",
+      "time": "21:00",
+      "day": "Friday",
+      "date": "2016-07-01",
+      "picture": {
+        "original": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/neil-young-jay-blakesberg-1200x720.jpg",
+        "banner": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/neil-young-jay-blakesberg-600x338.jpg",
+        "thumbnail": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/neil-young-jay-blakesberg-338x338.jpg"
+      },
+      "attending": {
+        "friends": 65,
+        "total": 1205
+      },
+      "status": "plusOne"
+    },
+    {
+      "id": 6,
+      "key": 6,
+      "artist": "PJ HARVEY",
+      "location": "Arena",
+      "time": "20:30",
+      "day": "Thursday",
+      "date": "2016-06-30",
+      "picture": {
+        "original": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/pj-harvey_photo-credit_maria-mochnacz-1200x720.jpg",
+        "banner": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/pj-harvey_photo-credit_maria-mochnacz-600x338.jpg",
+        "thumbnail": "https://s3.eu-central-1.amazonaws.com/plusonedk/public/artists/pj-harvey_photo-credit_maria-mochnacz-338x338.jpg"
+      },
+      "attending": {
+        "friends": 65,
+        "total": 1205
+      },
+      "status": "plusOne"
+    }
+  ],
+
+
+
+  "people": [
+    {
+      "id": 1,
+      "friends": [
+        {"key": 1, "name": "Alexander Magnusson", "picture": {"profile": "..."}},
+        {"key": 2, "name": "Emilia Jensen", "picture": {"profile": "..."}},
+        {"key": 3, "name": "Line Elmsbæk", "picture": {"profile": "..."}},
+        {"key": 4, "name": "Maiken Rasmussen", "picture": {"profile": "..."}},
+        {"key": 5, "name": "Mille Christensen", "picture": {"profile": "..."}},
+        {"key": 6, "name": "Torben Clausen", "picture": {"profile": "..."}},
+        {"key": 7, "name": "Chris Larsen", "picture": {"profile": "..."}}
+      ],
+      "plusOne": [
+        {"key": 8, "name": "Mads", "concertMatch": 12, "picture": {"profile": "..."}},
+        {"key": 9, "name": "Mille", "concertMatch": 10, "picture": {"profile": "..."}},
+        {"key": 10, "name": "Aleksandra", "concertMatch": 9, "picture": {"profile": "..."}},
+        {"key": 11, "name": "Magnus", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 12, "name": "Emilia", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 13, "name": "Torben", "concertMatch": 6, "picture": {"profile": "..."}},
+        {"key": 14, "name": "Maiken", "concertMatch": 4, "picture": {"profile": "..."}}
+      ]
+    },
+    {
+      "id": 2,
+      "friends": [
+        {"key": 1, "name": "Alexander Magnusson", "picture": {"profile": "..."}},
+        {"key": 2, "name": "Emilia Jensen", "picture": {"profile": "..."}},
+        {"key": 3, "name": "Line Elmsbæk", "picture": {"profile": "..."}},
+        {"key": 4, "name": "Maiken Rasmussen", "picture": {"profile": "..."}},
+        {"key": 5, "name": "Mille Christensen", "picture": {"profile": "..."}},
+        {"key": 6, "name": "Torben Clausen", "picture": {"profile": "..."}},
+        {"key": 7, "name": "Chris Larsen", "picture": {"profile": "..."}}
+      ],
+      "plusOne": [
+        {"key": 8, "name": "Mads", "concertMatch": 12, "picture": {"profile": "..."}},
+        {"key": 9, "name": "Mille", "concertMatch": 10, "picture": {"profile": "..."}},
+        {"key": 10, "name": "Aleksandra", "concertMatch": 9, "picture": {"profile": "..."}},
+        {"key": 11, "name": "Magnus", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 12, "name": "Emilia", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 13, "name": "Torben", "concertMatch": 6, "picture": {"profile": "..."}},
+        {"key": 14, "name": "Maiken", "concertMatch": 4, "picture": {"profile": "..."}}
+      ]
+    },
+    {
+      "id": 3,
+      "friends": [
+        {"key": 1, "name": "Alexander Magnusson", "picture": {"profile": "..."}},
+        {"key": 2, "name": "Emilia Jensen", "picture": {"profile": "..."}},
+        {"key": 3, "name": "Line Elmsbæk", "picture": {"profile": "..."}},
+        {"key": 4, "name": "Maiken Rasmussen", "picture": {"profile": "..."}},
+        {"key": 5, "name": "Mille Christensen", "picture": {"profile": "..."}},
+        {"key": 6, "name": "Torben Clausen", "picture": {"profile": "..."}},
+        {"key": 7, "name": "Chris Larsen", "picture": {"profile": "..."}}
+      ],
+      "plusOne": [
+        {"key": 8, "name": "Mads", "concertMatch": 12, "picture": {"profile": "..."}},
+        {"key": 9, "name": "Mille", "concertMatch": 10, "picture": {"profile": "..."}},
+        {"key": 10, "name": "Aleksandra", "concertMatch": 9, "picture": {"profile": "..."}},
+        {"key": 11, "name": "Magnus", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 12, "name": "Emilia", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 13, "name": "Torben", "concertMatch": 6, "picture": {"profile": "..."}},
+        {"key": 14, "name": "Maiken", "concertMatch": 4, "picture": {"profile": "..."}}
+      ]
+    },
+    {
+      "id": 4,
+      "friends": [
+        {"key": 1, "name": "Alexander Magnusson", "picture": {"profile": "..."}},
+        {"key": 2, "name": "Emilia Jensen", "picture": {"profile": "..."}},
+        {"key": 3, "name": "Line Elmsbæk", "picture": {"profile": "..."}},
+        {"key": 4, "name": "Maiken Rasmussen", "picture": {"profile": "..."}},
+        {"key": 5, "name": "Mille Christensen", "picture": {"profile": "..."}},
+        {"key": 6, "name": "Torben Clausen", "picture": {"profile": "..."}},
+        {"key": 7, "name": "Chris Larsen", "picture": {"profile": "..."}}
+      ],
+      "plusOne": [
+        {"key": 8, "name": "Mads", "concertMatch": 12, "picture": {"profile": "..."}},
+        {"key": 9, "name": "Mille", "concertMatch": 10, "picture": {"profile": "..."}},
+        {"key": 10, "name": "Aleksandra", "concertMatch": 9, "picture": {"profile": "..."}},
+        {"key": 11, "name": "Magnus", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 12, "name": "Emilia", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 13, "name": "Torben", "concertMatch": 6, "picture": {"profile": "..."}},
+        {"key": 14, "name": "Maiken", "concertMatch": 4, "picture": {"profile": "..."}}
+      ]
+    },
+    {
+      "id": 5,
+      "friends": [
+        {"key": 1, "name": "Alexander Magnusson", "picture": {"profile": "..."}},
+        {"key": 2, "name": "Emilia Jensen", "picture": {"profile": "..."}},
+        {"key": 3, "name": "Line Elmsbæk", "picture": {"profile": "..."}},
+        {"key": 4, "name": "Maiken Rasmussen", "picture": {"profile": "..."}},
+        {"key": 5, "name": "Mille Christensen", "picture": {"profile": "..."}},
+        {"key": 6, "name": "Torben Clausen", "picture": {"profile": "..."}},
+        {"key": 7, "name": "Chris Larsen", "picture": {"profile": "..."}}
+      ],
+      "plusOne": [
+        {"key": 8, "name": "Mads", "concertMatch": 12, "picture": {"profile": "..."}},
+        {"key": 9, "name": "Mille", "concertMatch": 10, "picture": {"profile": "..."}},
+        {"key": 10, "name": "Aleksandra", "concertMatch": 9, "picture": {"profile": "..."}},
+        {"key": 11, "name": "Magnus", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 12, "name": "Emilia", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 13, "name": "Torben", "concertMatch": 6, "picture": {"profile": "..."}},
+        {"key": 14, "name": "Maiken", "concertMatch": 4, "picture": {"profile": "..."}}
+      ]
+    },
+    {
+      "id": 6,
+      "friends": [
+        {"key": 1, "name": "Alexander Magnusson", "picture": {"profile": "..."}},
+        {"key": 2, "name": "Emilia Jensen", "picture": {"profile": "..."}},
+        {"key": 3, "name": "Line Elmsbæk", "picture": {"profile": "..."}},
+        {"key": 4, "name": "Maiken Rasmussen", "picture": {"profile": "..."}},
+        {"key": 5, "name": "Mille Christensen", "picture": {"profile": "..."}},
+        {"key": 6, "name": "Torben Clausen", "picture": {"profile": "..."}},
+        {"key": 7, "name": "Chris Larsen", "picture": {"profile": "..."}}
+      ],
+      "plusOne": [
+        {"key": 8, "name": "Mads", "concertMatch": 12, "picture": {"profile": "..."}},
+        {"key": 9, "name": "Mille", "concertMatch": 10, "picture": {"profile": "..."}},
+        {"key": 10, "name": "Aleksandra", "concertMatch": 9, "picture": {"profile": "..."}},
+        {"key": 11, "name": "Magnus", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 12, "name": "Emilia", "concertMatch": 7, "picture": {"profile": "..."}},
+        {"key": 13, "name": "Torben", "concertMatch": 6, "picture": {"profile": "..."}},
+        {"key": 14, "name": "Maiken", "concertMatch": 4, "picture": {"profile": "..."}}
+      ]
+    }
+  ],
+
+
+
+  "chats": [
+    {
+      "id": 1,
+      "type": "plusOne",
+      "recipient": ["Emilia"],
+      "concertId": 1,
+      "messageCount": {
+        "unread": 1,
+        "total": 5
+      }
+    },
+    {
+      "id": 2,
+      "type": "group",
+      "recipient": ["Mille", "Thomas", "Martin", "Christian", "Maiken", "Line", "Mike", "Nick"],
+      "concertId": 2,
+      "messageCount": {
+        "unread": 5,
+        "total": 8
+      }
+    }
+  ],
+
+
+
+  "messages": [
+    {
+      "id": 1,
+      "messages": [
+        {"id": 1, "read": true, "content": "Hey!", "fromYou": false, "sender": "Emilia"},
+        {"id": 2, "read": true, "content": "Hey there!", "fromYou": true, "sender": "Christian"},
+        {"id": 5, "read": true, "content": "Where do you want to meet? :)", "fromYou": false, "sender": "Emilia"},
+        {"id": 6, "read": true, "content": "Hmm, let's meet near Arena?", "fromYou": true, "sender": "Christian"},
+        {"id": 11, "read": false, "content": "Sounds good! I'll be there :D", "fromYou": false, "sender": "Emilia"}
+      ]
+    },
+    {
+      "id": 2,
+      "messages": [
+        {"id": 14, "read": true, "content": "Hey peeps :)", "fromYou": false, "sender": "Mille"},
+        {"id": 15, "read": true, "content": "Yo!", "fromYou": true, "sender": "Christian"},
+        {"id": 17, "read": true, "content": "Where do you want to meet? :)", "fromYou": false, "sender": "Thomas"},
+        {"id": 19, "read": false, "content": "Hmm, let's meet near Arena?", "fromYou": true, "sender": "Christian"},
+        {"id": 20, "read": false, "content": "Sounds good! I'll be there :D", "fromYou": false, "sender": "Maiken"},
+        {"id": 23, "read": false, "content": "Sounds good! I'll be there :D", "fromYou": false, "sender": "Line"},
+        {"id": 24, "read": false, "content": "Sounds good! I'll be there :D", "fromYou": false, "sender": "Mike"},
+        {"id": 25, "read": false, "content": "Sounds good! I'll be there :D", "fromYou": false, "sender": "Nick"}
+      ]
+    }
+  ]
+
+
+
+}
