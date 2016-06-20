@@ -3,7 +3,7 @@
 First install json-server
 
 ```bash
-json-server
+npm install -g json-server
 ```
 
 Then run the server with
